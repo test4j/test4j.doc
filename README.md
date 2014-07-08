@@ -95,5 +95,5 @@ Test4J原名叫jTester,本来是发布在google上的一个[开源项目](http:/
 
 相应的jar包也可以在 [Maven官方](http://search.maven.org/#search%7Cga%7C1%7Ctest4j) 手动下载。
 
-![Test4J搜索](https://raw.githubusercontent.com/tryternity/test4j.doc/master/01.introduce/test4j-maven-search.png)
+![Test4J搜索](https://raw.githubusercontent.com/test4j/test4j.doc/master/images/test4j-maven-search.png)
 
